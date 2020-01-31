@@ -104,7 +104,6 @@ DecoupledEditor.defaultConfig = {
 			'|',
 			'undo',
 			'redo',
-			'mathType'
 		]
 	},
 	image: {
